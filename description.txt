@@ -3,7 +3,17 @@ this is a meeting app
 combine discord + google meet
 
 features:
-- ...
+- room
+    + auto generate code
+    + qr code to invite
+    + add friend
+    + suggest friend/room
+
+    + camera
+    + chat in call
+    + personal chat
+    + share screen
+    + mic
 - ...
 
 todo:
